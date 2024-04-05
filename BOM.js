@@ -1,0 +1,1 @@
+alert('BOM || Browser - Object - Model');
